@@ -1,3 +1,4 @@
+# About Me
 - 👋 Hi, I’m Shem!
 - 👀 I’m interested in programming, software, operating systems, and computer hardware!
 - 🌱 I’m currently learning Object-Oriented Python!
