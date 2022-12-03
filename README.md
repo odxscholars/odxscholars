@@ -1,5 +1,5 @@
 # About Me
-- 👋 Hi, I’m Shem!
+- 👋 Hi, I’m ****!
 - 👀 I’m interested in programming, software, operating systems, and computer hardware!
 - 🌱 I’m currently learning Full-stack Web Development on the MERN stack!
 - 💞️ I’m looking to collaborate on projects for Hackathons!
