@@ -1,4 +1,4 @@
-dxscholars/README.MD# Hi there, I'm Shem 👋
+# Hi there, I'm Shem 👋
 
 Fullstack Developer, Data Scientist, DevOps Engineer  
 *Turning coffee ☕ into code, and ideas 💡 into reality*  
